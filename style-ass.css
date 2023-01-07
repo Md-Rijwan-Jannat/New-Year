@@ -1,0 +1,129 @@
+
+body{
+    font-family: sans-serif;
+}
+.back-img{
+    background-image:url(  './assignment/banner2.png');
+    background-size:cover;
+    margin: 0;
+    height: 330px;
+    padding:0 ; 
+   
+}
+
+
+.head{
+    text-align: right;
+    margin:0px 50px 70px 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 270px;
+    padding-right: 50px;
+}
+.batton{
+    color: azure;
+    background-color: rgb(250, 87, 22);
+    border-radius: 3px;
+    border: none;
+    padding: 7px 5px;   
+}
+.person-spech{
+    display: flex;
+    
+   
+}
+
+.items li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+
+}
+.items{
+    margin-right: 50px;
+}
+.items li img{
+width: 20px;
+}
+.img{
+    margin-top: 70px;
+   max-width: 100%;
+   height: auto;
+}
+.margin{
+margin-top: 150px;
+}    
+.item-icon{
+   
+    display:flex;
+   padding: 30px 100px;
+}
+.h2{
+    flex-direction: columnS;
+    text-align: center;
+    padding-top: 20px;
+    margin: 10px 20%;
+    
+}
+.dacoration{
+    padding: 10px 20px;
+}
+.image{
+    border-radius: 15px;
+   width: 100%;
+   height: 300px;
+   position: relative;
+}
+.img-one-forBG{
+    border-radius: 15px;
+    width: 100%;
+    position: relative;
+}.overlay{
+    width: 100%;
+    height: 300px;position: absolute;
+    border-radius: 15px;
+    top: 0; 
+}.img-two-for-Overlay{
+    width: 100%;
+    border-radius: 15px;
+}.BTN{
+    color: orangered;
+    background-color: white;
+}
+.text-field{
+
+color: #fff;    padding: 0 100px;
+}
+
+.footer{
+    display: flex;
+    color: aliceblue;
+    background-color:black;
+    background-size:cover;
+    margin-top: 40px;
+    height: 230px;
+
+}
+.modify{
+   padding-left:30px ;
+}
+.styless{
+    display: flex;
+    color: azure;
+}
+ .last-foot{
+    margin: 50px;
+ }
+ .input{
+   
+    margin-bottom: 20px;
+ }
+
+.header{
+    text-align: right;
+    margin:20px 60px 40px 150px;
+}
+
+
+    
