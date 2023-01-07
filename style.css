@@ -1,4 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
 
+}
 body{
     font-family: sans-serif;
 }
@@ -93,7 +97,7 @@ margin-top: 150px;
 }
 .text-field{
 
-color: #fff;    padding: 0 100px;
+color: #fff;    padding: 40px 100px;
 }
 
 .footer{
